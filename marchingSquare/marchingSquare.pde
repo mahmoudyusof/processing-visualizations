@@ -1,8 +1,8 @@
 float [][] field;
-int res = 5;
+int res = 4;
 int cols, rows;
 float xoff, yoff, zoff;
-float inc = 0.05;
+float inc = 0.02;
 
 OpenSimplexNoise noise;
 
